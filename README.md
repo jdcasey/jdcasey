@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! I'm a software architect / engineer with Red Hat, specializing in very large build systems (and especially content management in those systems). I'm a long-time Java developer who's reasonably dangerous in Python and a few other languages.
+
+You can also find me on <a rel="me" href="https://twitter.com/buildchimp">Twitter</a>, <a rel="me" href="https://cohost.org/buildchimp">Cohost</a>, and <a rel="me" href="https://social.coop/@buildchimp">Mastodon (social.coop)</a>.
