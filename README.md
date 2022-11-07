@@ -4,4 +4,4 @@ I've got a couple 3D printers and I'm a whole other level of dangerous with a so
 
 I've been learning Chinese since 2018 (but that's a long road!) and Spanish for the last year or so.
 
-You can also find me on <a rel="me" href="https://twitter.com/buildchimp">Twitter</a>, <a rel="me" href="https://cohost.org/buildchimp">Cohost</a>, and <a rel="me" href="https://social.coop/@buildchimp">Mastodon (social.coop)</a>.
+You can also find me <a rel="me" href="https://hachyderm.io/@buildchimp">https://hachyderm.io/@buildchimp</a>.
